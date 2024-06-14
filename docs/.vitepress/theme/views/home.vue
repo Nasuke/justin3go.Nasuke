@@ -28,7 +28,7 @@
 			<div class="max-width">
 				<about-me></about-me>
 				<div class="recently-posts-head">
-					<div class="title">最近发布</div>
+					<div class="title">recently release</div>
 					<link-button text="博客归档" link="/博客/"></link-button>
 				</div>
 				<div class="recently-posts">
@@ -41,7 +41,7 @@
 					</div>
 				</div>
 				<div class="comment-container">
-					<div class="comment-title">站内留言板</div>
+					<div class="comment-title">留言板</div>
 					<comment class="comment"></comment>
 				</div>
 			</div>
